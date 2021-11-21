@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarishankerPS
 - 👀 I’m interested to innovate things
-- 🌱 I’m currently learning AWS,Javascript
+- 🌱 I’m currently learning AWS,full stack development
 - 📫 reach me @ harishankerps17@gmail.com
 
 <!---
